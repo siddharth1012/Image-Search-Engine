@@ -17,3 +17,7 @@ Tech-Stack used for building this web application is following-
 4. Python Libraries like Pandas, Scikit-Learn, NLTK etc
 5. Kaggle to get the dataset.
 6. SQLite 3.0 for database.
+
+Screenshot of the VAST web app- 
+
+![vast1](https://user-images.githubusercontent.com/73304623/192300671-62c7348f-21c6-44cf-b90c-484288bec9e4.png)
