@@ -20,4 +20,4 @@ Tech-Stack used for building this web application is following-
 
 Screenshot of the VAST web app- 
 
-![vast1](https://user-images.githubusercontent.com/73304623/192300671-62c7348f-21c6-44cf-b90c-484288bec9e4.png)
+![vast2](https://user-images.githubusercontent.com/73304623/192305095-8ae4c06b-a51f-4c43-9ffe-7904d79abdc6.png)
