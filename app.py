@@ -18,9 +18,10 @@ def index():
     return render_template('index.html')
 
 
-@app.route('/', methods=['post'])
+@app.route('/recom', methods=['post'])
 def recommend():
     text1 = request.form.get('user_input')
+    input_search = text1
     text1 = text1.lower()
 
     ps = PorterStemmer()
@@ -50,7 +51,7 @@ def recommend():
 
     image_data.drop(image_data.tail(1).index, inplace=True)
 
-    return render_template('index.html', list1=list1)
+    return render_template('index.html', list1=list1, input_search=input_search)
 
 
 if __name__ == "__main__":
