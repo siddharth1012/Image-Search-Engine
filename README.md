@@ -19,4 +19,5 @@ Techstack used-
 
 Screenshot of working prototype is attached here-
 
-![vast2](https://user-images.githubusercontent.com/73304623/192327043-15c2e1ab-ce47-41b1-a4e6-839e459ba96a.png)
+
+![Screenshot 2023-12-19 125922](https://github.com/siddharth1012/Image-Search-Engine/assets/73304623/a1419250-3d31-4d57-8770-6510982d1ee7)
