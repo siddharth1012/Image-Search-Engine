@@ -1,10 +1,10 @@
 This is a web application that converts input text given by user into images. VAST web application is the result of the problem statement that was given to Team VAST in Tech-A-thon 3.0 conducted by Ineuron.ai
 
-Visit our live web app on: https://image-search-engine-87feb0c2561b.herokuapp.com/recom
+Visit our live web app on: https://image-search-engine-87feb0c2561b.herokuapp.com
 
 Steps to be followed to use VAST web app-
 
-1. Visit the website: https://image-search-engine-87feb0c2561b.herokuapp.com/recom
+1. Visit the website: https://image-search-engine-87feb0c2561b.herokuapp.com
 2. Type any input string that you need to convert to image(Data is limited due to free tier deployment on Heroku)
 3. Wait for app to fetch the required result for your query.
 4. VAST will give you three images in the order of relevancy.
