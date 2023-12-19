@@ -34,7 +34,7 @@ def recommend():
 
     text1 = stem(text1)
     text1 = pd.DataFrame({'caption': [text1]})
-    image_data = data_nltk.concat(text1, ignore_index=True).copy()
+    image_data = pd.concat([data_nltk,text1], ignore_index=True).copy()
 
     cv = CountVectorizer(max_features=100000, stop_words='english')
 
